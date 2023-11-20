@@ -5,11 +5,10 @@ A self-taught web developer since 2019, I've worked on everything from small web
 ### :woman_technologist: About Me 
 - 👨‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Frontend Developer & WordPress Specialist</strong>.
-- 🎒 I've done almost 2 internships in frontend primarily.
 - 🧭 I love exploring and working both in frontend and wordpress.
 - 🎭 I love to connect with people.
-- 🔭 I’m currently working on Upwork & Fiverr 
-- 📫 How to reach me: Check social links below.
+- 🔭 I’m currently working on Fiverr 
+- 📫 How to reach me: Check the social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
