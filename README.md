@@ -1,11 +1,11 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sagor Ahmed</h1>
-A self-taught web developer, I've worked on everything from small websites to large web applications.
+A self-taught Front end Developer and WordPress Developer, I've worked on everything from small websites to large web applications.
 
 
 ### :woman_technologist: About Me 
 - 👨‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Frontend Developer & WordPress Specialist</strong>.
-- 🧭 I love exploring and working both in frontend and wordpress.
+- 🧭 I love exploring and working both in frontend and Wordpress.
 - 🎭 I love to connect with people.
 - 🔭 I’m currently working on Fiverr 
 - 📫 How to reach me: Check the social links below.
