@@ -1,5 +1,5 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sagor Ahmed</h1>
-A self-taught web developer since 2019, I've worked on everything from small websites to large web applications.
+A self-taught web developer, I've worked on everything from small websites to large web applications.
 
 
 ### :woman_technologist: About Me 
